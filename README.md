@@ -1,5 +1,8 @@
 # Financial Data Analytics and Forecasting Model
 
+![](https://github.com/Lucky-akash321/Disaster-Message-Classifier/blob/main/1_h4SOSMuiHmwfDKpZHUlSpw.png)
+
+
 ## Overview
 
 Financial data analytics and forecasting are essential tools in the finance industry to predict market trends, stock prices, economic conditions, and company performance. By analyzing historical data, we can build predictive models to forecast future trends and support decision-making. This project covers how to collect, analyze, and forecast financial data using advanced techniques.
